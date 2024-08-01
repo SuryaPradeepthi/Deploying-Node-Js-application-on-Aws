@@ -1,7 +1,7 @@
 # Deploying-Node-Js-application-on-Aws
 I deployed node js application on Aws
 
-Go to AWS console and create an Iam user and attach policies directly to that iam user by giving adminstartor full access and ec2 full access.
+Go to AWS console and create an Iam user and attach policies directly to that iam user by giving adminstartor full access and EC2 full access.
 
 Login to aws console using iam and create an ec2 instance on iam role
 
